@@ -1,0 +1,1945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Building_Blocks.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>0.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<!-- <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/> -->
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>0.0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0c0c0c</color>
+			<width>1.0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff6b6b6b</color>
+			<outline>1</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<!-- <hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/> -->
+		</IconStyle>
+		<LineStyle>
+			<color>ff0c0c0c</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff6b6b6b</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Building_Block_1</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;1&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;350&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>38.246885101006,21.738433030163</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							38.24673781274776,21.7376851148424
+							38.24629555502159,21.73823570523082
+							38.24702760191322,21.73916822775162
+							38.24747943434021,21.73864307282542
+							38.24673781274776,21.7376851148424
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Βlock_2</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;2&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;321&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.738959967437,38.246458143266,0 </coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73830847548422,38.24625264079296,0 
+							21.7386792440585,38.24594254172292,0 
+							21.73962942351636,38.24666689481304,0 
+							21.73922272668836,38.24697049573643,0
+							21.73830847548422,38.24625264079296,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Βlock_3</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;3&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;190&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.739253564254,38.246067222351,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73913155361919,38.24581263249848,0 
+							21.73918227397009,38.24578760843235,0 
+							21.7397581825392,38.24658399326876,0 
+							21.73968445634263,38.24663223286719,0
+							21.73873873041532,38.24591088111634,0 
+							21.73902618863793,38.24567598592408,0 
+							21.73913155361919,38.24581263249848,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_4</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;4&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;280&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.738831697477,38.245274712488,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73879582839771,38.24494414866878,0 
+							21.73887471403131,38.24489808192232,0 
+							21.73893112164693,38.24502323856262,0 
+							21.73896787550085,38.24514573372252,0 
+							21.73902359502049,38.24526915300737,0 
+							21.7390449219945,38.24533553524358,0 
+							21.73901947251357,38.24554216160244,0 
+							21.73864924450792,38.24583834637802,0 
+							21.73817850368294,38.24547601328742,0 
+							21.73879582839771,38.24494414866878,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_5</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;5&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;325&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.736287422534,38.247162226485,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73619476049232,38.24666158103721,0 
+							21.73691133781534,38.24722464123647,0 
+							21.73637711604063,38.24766297139114,0 
+							21.73566647578846,38.24709971227415,0 
+							21.73619476049232,38.24666158103721,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_6</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;6&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;250&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.738042175016,38.245756463353,0 </coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73748384635756,38.24562424655084,0 
+							21.73785855606356,38.24532168123332,0 
+							21.73860028922067,38.24588805205185,0 
+							21.73822600842114,38.24619187357642,0 
+							21.73748384635756,38.24562424655084,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_7</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;7&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;300&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.73752313452,38.246170632356,0 </coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73689030037475,38.24610126849905,0 
+							21.73742427618872,38.24566738436619,0 
+							21.73817047388066,38.24624016703443,0 
+							21.73760748763501,38.24667370952306,0 
+							21.73689030037475,38.24610126849905,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_8</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;8&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;295&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.736907105826,38.24666077335,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73627111620372,38.24660325869413,0 
+							21.73682062312806,38.24614957115731,0 
+							21.73754059286715,38.24671472074515,0 
+							21.73699609110395,38.24717554280493,0 
+							21.73627111620372,38.24660325869413,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_9</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;9&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;425&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.735605634388,38.245751737473,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73460055022633,38.24528366585275,0 
+							21.73511167403147,38.24484670459965,0 
+							21.736761362617,38.24611381494042,0 
+							21.73620930095894,38.24654438406454,0 
+							21.73576517438874,38.24618587340456,0 
+							21.73589262587158,38.24597143129931,0 
+							21.73584756656808,38.24585680088899,0 
+							21.73556413962612,38.24562200273154,0 
+							21.73545248873075,38.24558149725792,0 
+							21.73535604275087,38.24557614091982,0 
+							21.73510105249603,38.2456867962436,0 
+							21.73460055022633,38.24528366585275,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_10</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;10&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;480&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.73627030456,38.24520924704,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73572540968295,38.24436868110901,0 
+							21.73734783641707,38.24561946348264,0 
+							21.73681813506754,38.24604829772234,0 
+							21.73518983707167,38.24480054584473,0 
+							21.73572540968295,38.24436868110901,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_11</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;11&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;450&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.736724251341,38.244713173244,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73609963376471,38.24406609419206,0 
+							21.7365224404193,38.24435738113218,0 
+							21.73779832118542,38.24526743856533,0 
+							21.73740928237663,38.24556070405512,0 
+							21.73579157895663,38.24431424827538,0 
+							21.73609963376471,38.24406609419206,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_12</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;12&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;726&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.73581064517,38.248376505114,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73428117996892,38.24822894973362,0 
+							21.73558016209917,38.24716961570555,0 
+							21.73736203175647,38.2485168992428,0 
+							21.73601920685518,38.24959055577395,0 
+							21.73428117996892,38.24822894973362,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_13</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;13&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;260&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.734715187854,38.249051195509,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73417854278421,38.24829792378327,0 
+							21.73591726769615,38.24967107580422,0 
+							21.73565319720349,38.24986620673496,0 
+							21.73512250584221,38.24944089394167,0 
+							21.73508417300827,38.24946039323029,0 
+							21.7342118907506,38.24877999641321,0 
+							21.73418053084693,38.24874649475082,0 
+							21.73416387947387,38.24869387983721,0 
+							21.73392470307604,38.24850389508735,0 
+							21.73417854278421,38.24829792378327,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_14</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;14&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;99&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.736278215648,38.250153054701,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73575249801992,38.24993562874325,0 
+							21.73599946985183,38.24972810507828,0 
+							21.73680081627255,38.25037528322861,0 
+							21.73656007844585,38.25057320175397,0 
+							21.73575249801992,38.24993562874325,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_15</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;15&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;355&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.737833927677,38.247376273913,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73708097654797,38.24723814379352,0 
+							21.7376374843026,38.2467796903302,0 
+							21.73858891793186,38.24751337514989,0 
+							21.73802833192405,38.24797388637801,0 
+							21.73708097654797,38.24723814379352,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_16</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;16&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;0&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.737521316789,38.249137631787,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73742885347283,38.24857032682959,0
+							21.73824377892549,38.24920671224577,0 
+							21.73760810342999,38.24969917476145,0 
+							21.73680453132751,38.24907431331229,0 
+							21.73742885347283,38.24857032682959,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_17</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;17&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;230&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.73825829593,38.249711577168,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73832744024164,38.2492655493158,0 
+							21.73882507223837,38.24966199515855,0 
+							21.73820016395687,38.25016214962752,0
+							21.73768050728494,38.24975661457139,0 
+							21.73832744024164,38.2492655493158,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_18</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;18&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;253&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.737548411963,38.250280660005,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73762298297229,38.24980829952653,0 
+							21.73814668411378,38.2502040473268,0 
+							21.7374749288749,38.2507701958318,0 
+							21.73694905189247,38.25034009733541,0 
+							21.73762298297229,38.24980829952653,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_19</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;19&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;333&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.737216117755,38.247877200412,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.7364685164061,38.24772495522331,0 
+							21.73699694372576,38.24728081626363,0
+							21.73796217580869,38.24803135602196,0 
+							21.73743683508019,38.24847167413972,0 
+							21.7364685164061,38.24772495522331,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_20</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;20&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;283&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.736774847097,38.249612947575,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.7360922218116,38.24965748707919,0 
+							21.73661172187764,38.2492115132137,0 
+							21.73673149634097,38.24913125327734,0 
+							21.73756303191259,38.24976323240535,0 
+							21.73687576354082,38.25030125190113,0 
+							21.7360922218116,38.24965748707919,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_21</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;21&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;311&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.738129837334,38.25086119072,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73753227087293,38.25079555151817,0 
+							21.73818112878739,38.25024857911954,0 
+							21.738884075883,38.25081793825346,0 
+							21.73792187379278,38.25158269398951,0 
+							21.73753227087293,38.25079555151817,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_22</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;22&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;299&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.738181872515,38.248616208509,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73748956701063,38.2485121494659,0 
+							21.73802342852936,38.2480732105853,0 
+							21.73887421708177,38.24872645105019,0 
+							21.73834027743723,38.24915302293603,0 
+							21.73748956701063,38.2485121494659,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_23</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;23&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;323&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.738799485489,38.248116415295,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73808456146423,38.24801702175574,0 
+							21.73865511689188,38.24755036561532,0 
+							21.73951882467173,38.24822504096249,0 
+							21.73893943893015,38.24867323284707,0 
+							21.73808456146423,38.24801702175574,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_24</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;24&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;318&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.739404251469,38.247627790201,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73870606256905,38.24752033619487,0
+							21.73925304154806,38.24707740175364,0 
+							21.7400896177736,38.24774927550683,0 
+							21.73956828398438,38.24816414734919,0 
+							21.73870606256905,38.24752033619487,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_25</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;25&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;304&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.738914677329,38.250223064056,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73824326932919,38.25019184692678,0 
+							21.73886588526208,38.2496898929185,0 
+							21.73958690645684,38.25024858286261,0 
+							21.7389626482679,38.2507619335157,0 
+							21.73824326932919,38.25019184692678,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_26</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;26&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;195&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.738908640009,38.249182745566,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73838373051517,38.24920945296847,0 
+							21.73893031790056,38.24876787249741,0 
+							21.73942742941967,38.24915356935345,0 
+							21.73889308219928,38.24960008744491,0 
+							21.73838373051517,38.24920945296847,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_27</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;27&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;301&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.739654320099,38.250799195491,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73901725093072,38.25080265641972,0 
+							21.73964241840191,38.25028445565757,0 
+							21.74030131220846,38.25080698729298,0 
+							21.73965629885575,38.25130268259463,0 
+							21.73901725093072,38.25080265641972,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_28</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;28&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;204&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.740732972649,38.251348511895,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.74006775134156,38.25106689310041,0 
+							21.74034901403027,38.25083881940286,0 
+							21.74115835600064,38.25146036306285,0 
+							21.74114655021559,38.25154991080292,0 
+							21.74096036538549,38.25157566685164,0 
+							21.74071579892193,38.25159941814955,0 
+							21.74006775134156,38.25106689310041,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_29</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;29&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;195&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.740214787247,38.251467533452,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73971433042768,38.25134427117792,0 
+							21.7400107935655,38.25110367195332,0 
+							21.74059754871299,38.25156169383291,0 
+							21.7405812771888,38.25162421004503,0 
+							21.7401699863412,38.25170382025047,0 
+							21.73971433042768,38.25134427117792,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_30</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;30&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;189&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.73966073158,38.251699246875,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73919109484056,38.25188363693624,0 
+							21.73910691773282,38.25181162316365,0 
+							21.73965667094213,38.25138290189684,0 
+							21.74002735481375,38.25167566339778,0 
+							21.73998652919698,38.2517071981142,0 
+							21.73999582195257,38.25173445774129,0 
+							21.73919109484056,38.25188363693624,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_31</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;31&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;232&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.739000094731,38.251317538124,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73839143865767,38.25128979829643,0 
+							21.73894312021801,38.25084884558708,0 
+							21.73960649579697,38.25135053925506,0
+							21.73905932425072,38.25178096935862,0 
+							21.73839143865767,38.25128979829643,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_32</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;32&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;307&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.738380031216,38.251735235988,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73793507682089,38.251674120466,0 
+							21.73795374223782,38.25162938550397,0 
+							21.73832834992192,38.25132618664191,0 
+							21.7389949096324,38.25180609336273,0 
+							21.73900181894315,38.25191045374331,0
+							21.7380662897396,38.25206517620829,0 
+							21.73793507682089,38.251674120466,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_33</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;33&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;115&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.734428688914,38.243111444851,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73429255581485,38.24285709560769,0 
+							21.7347790664572,38.24318833355186,0 
+							21.73454950854982,38.24336823129381,0 
+							21.7340936248355,38.24303211895026,0 
+							21.73429255581485,38.24285709560769,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_34</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;34&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;297&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.733917442785,38.243484262467,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73354840361189,38.24355099984072,0 
+							21.7335334118319,38.24351031852214,0 
+							21.73403801011479,38.24307567842251,0 
+							21.73449375274969,38.2434238496992,0 
+							21.73397363561456,38.24386046585209,0 
+							21.73354840361189,38.24355099984072,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_35</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;35&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;288&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.733332469546,38.243964927468,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73295620110172,38.24402199174861,0 
+							21.73296497602575,38.24397139565227,0 
+							21.73344613120359,38.24356404802488,0 
+							21.73391441392367,38.2439075344537,0 
+							21.73338062547617,38.24435966745865,0 
+							21.73295620110172,38.24402199174861,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_36</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;36&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;303&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.732828363084,38.244459128254,0</coordinates>
+			</Point>
+		<!--<gx:balloonVisibility>1</gx:balloonVisibility> -->
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73278946703469,38.24485783824731,0 
+							21.73235276259456,38.24450023599655,0 
+							21.73286101159918,38.24406440328578,0 
+							21.73331021110655,38.24441403548666,0 
+							21.73278946703469,38.24485783824731,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_37</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;37&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;250&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.732193991483,38.245003295332,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73167408153919,38.24507995863163,0 
+							21.73225610518379,38.24457735369784,0 
+							21.73272067921255,38.2449251996722,0 
+							21.73212509999523,38.24543066932439,0 
+							21.73167408153919,38.24507995863163,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_38</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;38&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;228&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.731442781387,38.245572928093,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73104142628644,38.24565937556754,0 
+							21.7310289617447,38.24561642071797,0 
+							21.73160746703048,38.24511874261922,0 
+							21.73206969299368,38.24547241203953,0 
+							21.73146635888043,38.24599768952253,0 
+							21.73104142628644,38.24565937556754,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_39</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;39&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;202&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.731014854292,38.24593660192,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73117679618621,38.2462476564675,0 
+							21.73065634340368,38.24593032931095,0 
+							21.73091346828217,38.2457105262646,0 
+							21.73095173032412,38.24571732669836,0 
+							21.73137593326406,38.24607717085689,0 
+							21.73117679618621,38.2462476564675,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_40</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;40&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;137&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.730693483653,38.246266189036,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73115929633644,38.24626301919471,0 
+							21.73093930166278,38.24651891735896,0 
+							21.73061997934881,38.24638569924355,0 
+							21.73046582304775,38.24630264162848,0 
+							21.73033194142764,38.24618399959885,0 
+							21.73064456009579,38.24594285719337,0 
+							21.73115929633644,38.24626301919471,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_41</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;41&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;287&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.73132463543,38.246410391661,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73099061285062,38.24653978246414,0 
+							21.73112272099956,38.24635244221526,0 
+							21.73141843398182,38.24610711308961,0 
+							21.73174989306073,38.24635678708534,0 
+							21.73134151625969,38.24669583345312,0 
+							21.73099061285062,38.24653978246414,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_61</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;61&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;219&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.731793710427,38.246651661293,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73141248450815,38.2467149436111,0 
+							21.73178019478931,38.24639905532998,0 
+							21.73181175608349,38.24639981816208,0 
+							21.73211084865786,38.2466597174088,0 
+							21.73185330230511,38.24686050043415,0 
+							21.73179367621651,38.24687593281169,0 
+							21.73141248450815,38.2467149436111,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_60</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;60&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;225&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.73282214216,38.247417812871,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73253776858655,38.24699022840927,0
+							21.73335628388383,38.24764526253052,0 
+							21.73310752391834,38.24784845727916,0 
+							21.73228699225313,38.24718730326588,0 
+							21.73253776858655,38.24699022840927,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_59</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;59&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;200&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.733633521959,38.248069047016,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73341019714588,38.2476920723406,0 
+							21.7340990973271,38.24825021031231,0 
+							21.73384953977899,38.24844665985238,0 
+							21.73317525358484,38.24788724556056,0 
+							21.73341019714588,38.2476920723406,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_58</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;58&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;319&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.734151277049,38.247636766514,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73349521624192,38.2476112652687,0 
+							21.73411915793284,38.24710861506897,0 
+							21.73480313446225,38.24766157528357,0 
+							21.73418759955747,38.24816561043597,0 
+							21.73349521624192,38.2476112652687,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_57</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;57&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;330&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.733341445408,38.246984788974,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73405016875587,38.24705327725857,0 
+							21.73342947757683,38.24756233913182,0 
+							21.73263333949525,38.24692080237777,0 
+							21.73325279580342,38.24640273712863,0 
+							21.73405016875587,38.24705327725857,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_56</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;56&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;120&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.732173089055,38.246918051482,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73214680152818,38.24668638232546,0 
+							21.73246019404778,38.24694030376561,0 
+							21.73219558562674,38.24714582640903,0 
+							21.7318897750192,38.24689969342755,0 
+							21.73214680152818,38.24668638232546,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_55</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;55&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;297&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.735097235091,38.246232781527,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73453220897894,38.24534703823581,0 
+							21.73501335338856,38.24572335591716,0 
+							21.73519045454846,38.2457728152627,0 
+							21.73536869641778,38.24570103083951,0 
+							21.73544552289882,38.24570669642567,0 
+							21.73572772584135,38.24593561649539,0 
+							21.73573263602055,38.2459975259746,0 
+							21.73566477678484,38.2460671697113,0 
+							21.7356269900831,38.24617423728433,0 
+							21.73569073536215,38.24627211539498,0 
+							21.73612890233256,38.24660604035201,0 
+							21.73560067410174,38.24703607767504,0 
+							21.73534766858273,38.24684117166321,0 
+							21.73511880369527,38.24668876391734,0 
+							21.7349729562364,38.24666198986877,0 
+							21.73482086924318,38.24671717543691,0 
+							21.7347371426925,38.24672365443882,0 
+							21.73445288434179,38.24649013325035,0 
+							21.73448054962549,38.24642523149553,0 
+							21.73456326602644,38.24630965172805,0 
+							21.73451154433245,38.24620842038415,0 
+							21.73450730806376,38.24616587910102,0 
+							21.73400073749722,38.24578218427376,0 
+							21.73453220897894,38.24534703823581,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_54</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;54&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;323&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.732459437129,38.246385070512,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.7318788617394,38.24632707384792,0 
+							21.73250301411173,38.24581350350071,0 
+							21.73315928713989,38.24634304213996,0 
+							21.73255112553479,38.24686602151673,0 
+							21.73220489712022,38.24657571155257,0 
+							21.7318788617394,38.24632707384792,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_53</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;53&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;289&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.731977813118,38.245889488098,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73210842203454,38.24551355065374,0 
+							21.73243296688905,38.24576285627077,0 
+							21.73183429495404,38.24627025620892,0 
+							21.73153556859273,38.24601128925897,0 
+							21.73210842203454,38.24551355065374,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_52</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;52&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;306&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.732622248683,38.24533804704,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73276098287284,38.24496086526375,0 
+							21.73307127471025,38.24521180745892,0 
+							21.73249043392396,38.24571850970223,0 
+							21.73216630322689,38.24546100573485,0
+							21.73276098287284,38.24496086526375,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_51</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;51&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;333&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.733261601462,38.244790419658,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73335355697041,38.2444447509117,0 
+							21.73369214943786,38.24470074002986,0 
+							21.73316427676698,38.24512942656131,0 
+							21.73283642267217,38.24488676112883,0 
+							21.73335355697041,38.2444447509117,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_50</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;50&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;320&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.733853345745,38.244290190356,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73395958836328,38.24393920559425,0 
+							21.7342772517887,38.24419974802301,0 
+							21.73375216591063,38.24463441154924,0 
+							21.73342437691616,38.24438739625629,0 
+							21.73395958836328,38.24393920559425,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_49</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;49&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;305&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.73444496329,38.243794381323,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73454128968083,38.24344589576711,0 
+							21.73486695404603,38.24369622280794,0 
+							21.73435627830543,38.24414252863577,0 
+							21.73401533112761,38.24389287808308,0 
+							21.73454128968083,38.24344589576711,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_48</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;48&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;260&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.734878423457,38.243428306872,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.7348224018986,38.24321600048184,0 
+							21.73517227644667,38.24345382585733,0 
+							21.73492947482994,38.24364191609934,0 
+							21.73458954065355,38.24340148505061,0 
+							21.7348224018986,38.24321600048184,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_47</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;47&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;409&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.735023175095,38.244246163404,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73491801705549,38.24374499936712,0 
+							21.73565160238783,38.24430751933741,0 
+							21.73512034179963,38.24474800718153,0 
+							21.73440273913528,38.24418412772927,0 
+							21.73491801705549,38.24374499936712,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_46</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;46&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;297&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.735274696299,38.243711892813,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73499134852921,38.24369030851679,0 
+							21.735220348684,38.24350007622418,0 
+							21.73556203726815,38.24372426755342,0 
+							21.73532505071291,38.24393291895731,0
+							21.73499134852921,38.24369030851679,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_45</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;45&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;397&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.734422745895,38.244735118677,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73433239190696,38.24423791965172,0 
+							21.73504662336264,38.2447955907196,0 
+							21.73450780156144,38.24522758742716,0 
+							21.73380416674978,38.24467937690879,0 
+							21.73433239190696,38.24423791965172,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_44</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;44&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;404&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.733832517915,38.245232740714,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73374423156988,38.24474502847002,0 
+							21.73444351864904,38.24529030600996,0 
+							21.73392315641868,38.24571721336103,0 
+							21.73321916502054,38.24517841501623,0 
+							21.73374423156988,38.24474502847002,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_43</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;43&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;420&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.733184769983,38.245780912741,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73312007537533,38.24526655495828,0 
+							21.73383555682041,38.24580399248263,0 
+							21.73322604640003,38.24629720592412,0 
+							21.73255740133433,38.2457558975978,0 
+							21.73312007537533,38.24526655495828,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Building_Block_42</name>
+		<description>
+				&lt;h4&gt;Population_per_block&lt;h4&gt;
+				&lt;ul class="textattributes"&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;id&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;42&lt;/span&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;strong&gt;&lt;span class="atr-name"&gt;Population&lt;/span&gt;:&lt;/strong&gt; &lt;span class="atr-value"&gt;473&lt;/span&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+		</description>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<MultiGeometry>
+			<Point>
+					<coordinates>21.734509290497,38.246680611737,0</coordinates>
+			</Point>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							21.73390191868327,38.2458653732505,0 
+							21.73440453755579,38.2462660299427,0 
+							21.73423006585357,38.24646974868328,0 
+							21.73446510444747,38.24671897096705,0 
+							21.73479086567085,38.24690528547258,0 
+							21.73507635085005,38.24681550981802,0 
+							21.73550610487971,38.24712418576293,0 
+							21.73490052058406,38.24759877931692,0 
+							21.73330814594437,38.24636162241506,0
+							21.73390191868327,38.2458653732505,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
